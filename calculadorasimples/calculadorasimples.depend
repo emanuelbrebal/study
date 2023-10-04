@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693333052 source:c:\users\emmanuel\desktop\calculadorasimples\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
