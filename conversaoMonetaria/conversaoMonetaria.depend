@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693406668 source:c:\users\emmanuel\desktop\si - cesmac\c\conversaomonetaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

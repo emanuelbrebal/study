@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693340588 source:c:\users\emmanuel\desktop\si - cesmac\c\conversaotemperatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695315996 source:c:\users\emmanuel\desktop\si - cesmac\c\condição composta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
